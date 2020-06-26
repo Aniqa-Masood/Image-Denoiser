@@ -1,4 +1,4 @@
-﻿# Image-Denoiser
+# Image-Denoiser
 ## Salt and Pepper Noise removal using Median filter written in C++ using free GLUT (an OpenGL Utility Library)
 
 
@@ -12,3 +12,11 @@ This project also contain the User Interface written in opengl.
 ![](median.gif)
 
 ### UI:
+![](screenshot1.jpg)
+
+
+![](screenshot2.jpg)
+
+
+![](screenshot3.jpg)
+
